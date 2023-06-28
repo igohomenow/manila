@@ -2,12 +2,8 @@
 <script  language="Javascript">
 <!--
 
-    if (history.back() == index.html)  {
-        
-    } else  if (history.back() == 404.html)  {
-        
-    } else {
-		location.href= "index.html";
+    if ((history.back() != index.html) || (history.back() != 404.html))  {        
+    	location.href= "index.html";
 	}
 	
 //-->
