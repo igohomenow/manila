@@ -1,3 +1,31 @@
+
+<script  language="Javascript">
+<!--
+
+    if (history.back() == index.html)  {
+        
+    } else  if (history.back() == 404.html)  {
+        
+    } else {
+		location.href= "index.html";
+	}
+	
+//-->
+</script>
+
+
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <title>Manila Schedule</title>
+  </head>
+  <body>
+
+<p style="font-size:200%">  
+
+
+
 <table cellspacing="0" style="border-collapse:collapse; width:692px">
 	<tbody>
 		<tr>
@@ -292,3 +320,6 @@
 		</tr>
 	</tbody>
 </table>
+
+  </body>
+</html>
